@@ -16,8 +16,8 @@
 
 [Vuepress](https://vuepress.docker-practice.com)
 
-[GitBook ZH_CN](/zh-cn)
+[GitBook ZH_CN](https://docker-practice.github.io/zh-cn)
 
-[GitBook US_EN](/us-en)
+[GitBook US_EN](https://docker-practice.github.io/us-en)
 
 [New GitBook](https://gitbook.docker-practice.com)
