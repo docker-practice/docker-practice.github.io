@@ -46,4 +46,4 @@
 <p align="center"><strong>微信扫码 加入群聊~</strong></p>
 
 
-<h2 align="center"><a href="http://www.beian.miit.gov.cn/"><strong>晋ICP备16007512号-3</strong></a></h2>
+<h2 align="center">©Docker Practice SIGs docker-practice.com <a href="http://www.beian.miit.gov.cn/"><strong>晋ICP备16007512号-3</strong></a></h2>
