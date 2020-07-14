@@ -43,7 +43,7 @@
 <img width="200" src="https://yewm28.coding-pages.com/wechat.jpg">
 </p>
 
-<p align="center"><strong>微信扫码 加入群聊~</strong></p>
+<p align="center"><strong>微信扫码 加入群聊~ 或者微信添加 <code>dpsigs</code> 邀请入群</strong></p>
 
 
 <h2 align="center">©Docker Practice SIGs docker-practice.com <a href="http://www.beian.miit.gov.cn/"><strong>晋ICP备16007512号-3</strong></a></h2>
