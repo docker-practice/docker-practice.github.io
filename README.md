@@ -13,23 +13,15 @@
 <p align="center"><strong>微信扫码 随时随地阅读~</strong></p>
 
 
-## 国内镜像
+## 国内镜像(推荐国内开发者访问，速度更快，更稳定)
 
 [Vuepress](https://vuepress.mirror.docker-practice.com)
-
-[GitBook ZH_CN](https://docker_practice.gitee.io/zh-cn)
-
-[GitBook US_EN](https://docker_practice.gitee.io/us-en)
 
 [看云](https://www.kancloud.cn/docker_practice/docker_practice)
 
 ## 阅读
 
 [Vuepress](https://vuepress.docker-practice.com)
-
-[GitBook ZH_CN](https://docker-practice.github.io/zh-cn)
-
-[GitBook US_EN](https://docker-practice.github.io/us-en)
 
 [New GitBook](https://gitbook.docker-practice.com)
 
