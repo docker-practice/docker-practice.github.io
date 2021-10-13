@@ -32,7 +32,7 @@
 <p align="center"><strong>项目维护者微信公众号</strong></p>
 
 <p align="center">
-<img width="200" src="https://dpsigs.coding.net/public/docker_practice/docker-practice.com/git/files/master/wechat.jpg">
+<img width="200" src="https://dpsigs.coding.net/p/docker_practice/d/docker-practice.com/git/raw/master/wechat.jpg">
 </p>
 
 <p align="center"><strong>微信扫码 加入群聊~ 或者微信添加 <code>dpsigs</code> 邀请入群</strong></p>
