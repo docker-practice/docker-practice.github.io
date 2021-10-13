@@ -7,7 +7,7 @@
 ## 微信小程序
 
 <p align="center">
-<img width="200" src="https://yewm28.coding-pages.com/49682252-3ac4c500-faec-11e8-86ab-eafe0139be6b.jpg">
+<img width="200" src="https://dpsigs.coding.net/p/docker_practice/d/docker-practice.com/git/raw/master/49682252-3ac4c500-faec-11e8-86ab-eafe0139be6b.jpg">
 </p>
 
 <p align="center"><strong>微信扫码 随时随地阅读~</strong></p>
@@ -21,23 +21,21 @@
 
 ## 阅读
 
-[Vuepress](https://vuepress.docker-practice.com)
-
 [New GitBook](https://gitbook.docker-practice.com)
 
 ## 社区
 
 <p align="center">
-<img width="200" src="https://yewm28.coding-pages.com/46847944-84a96b80-ce19-11e8-9f0c-ec84b2ac463e.jpg">
+<img width="200" src="https://dpsigs.coding.net/p/docker_practice/d/docker-practice.com/git/raw/master/46847944-84a96b80-ce19-11e8-9f0c-ec84b2ac463e.jpg">
 </p>
 
 <p align="center"><strong>项目维护者微信公众号</strong></p>
 
 <p align="center">
-<img width="200" src="https://yewm28.coding-pages.com/wechat.jpg">
+<img width="200" src="https://dpsigs.coding.net/public/docker_practice/docker-practice.com/git/files/master/wechat.jpg">
 </p>
 
 <p align="center"><strong>微信扫码 加入群聊~ 或者微信添加 <code>dpsigs</code> 邀请入群</strong></p>
 
 
-<h2 align="center">©Docker Practice SIGs docker-practice.com <a href="http://www.beian.miit.gov.cn/"><strong>晋ICP备16007512号-3</strong></a></h2>
+<h2 align="center">©Docker Practice SIGs docker-practice.com <a href="http://beian.miit.gov.cn/"><strong>晋ICP备16007512号-3</strong></a></h2>
